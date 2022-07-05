@@ -9,6 +9,10 @@ products:
 - hololens
 ---
 
+# Update:
+
+A working version of the original QR code sample project with added missing meta files and packages.
+
 # QR code tracking in Unity 
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
